@@ -1,1 +1,0 @@
-[{stop_id:'1',stop_code:null,stop_name:'Main St and Travelers',stop_lat:'41.765179',stop_lon:'-72.673435',zone_id:null,stop_url:null,location_type:'0',parent_station:
